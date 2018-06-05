@@ -1,0 +1,25 @@
+Compile/Run:
+javac *.java
+java Main
+
+Controls:
+
+R: right
+L: left
+D: Down
+U: Up
+
+Q : Backwards
+W: Forwards
+Up arrow: rotate along horizontal
+Down arrow: rotate along horizontal
+Left arrow: rotate along vertical
+Right arrow: rotate along vertical
+
+F: Controls shading/line display
+Z: Z buffer
+
+1: Selects triangle
+2: Selects second triangle
+3: Selects third triangle
+K: Resets triangles
